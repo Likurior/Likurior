@@ -1,4 +1,4 @@
-- Hey! I'm @Likurior
+- Hey! I'm Likurior.
 - I'm a university student studying Actuarial Science, Artificial Intelligence & Data Analytics.
 - I'm interested in learning more about machine learning and modeling, and have a developing interest in voxels.
 
